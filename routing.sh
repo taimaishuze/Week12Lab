@@ -2,7 +2,7 @@
 # Vang Lee
 
 # Week 12 CSCI 2461 Computer Networking 2 - Linux
-# Chapter 12
+# Chapter 11
 
 # Short Summary on Routing (My opinion)
 
