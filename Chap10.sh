@@ -4,7 +4,7 @@
 # Week 11 CSCI 2461 Computer Networking 2 - Linux
 # Chapter 11
 
-cd..
+cd ..
 
 # Change permissions so that script will run.  chmod 700 also does the same thing.
 echo "Changing permissions on Chap10.sh............."
