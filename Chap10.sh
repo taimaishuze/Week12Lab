@@ -37,7 +37,7 @@ echo "This next section kind of surprised me.  Using a backslash right before a 
 echo "having to use double quotes before and after the echo statement."
 echo ""
 sleep 2
-echo I don\'t like yada yada yada blah blah blah.......
+echo "I don\'t like yada yada yada blah blah blah......."
 echo ""
 sleep 2
 
